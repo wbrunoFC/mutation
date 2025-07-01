@@ -1,0 +1,13 @@
+{
+	"$schema": "./node_modules/@stryker-mutator/core/schema/stryker-schema.json",
+	"mutate": ["mutation.js", "!mutation.js:ignoredFunction"],
+	"testRunner": "jest",
+	"reporters": ["clear-text", "json", "progress", "html"],
+	"coverageAnalysis": "perTest",
+	"jest": {
+		"projectType": "custom",
+		"config": {
+			"transform": {}
+		}
+	}
+}
