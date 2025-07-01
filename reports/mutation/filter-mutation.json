@@ -1,106 +1,106 @@
 [
-  {
-    "id": "10",
-    "mutatorName": "BlockStatement",
-    "replacement": "{}",
-    "status": "NoCoverage",
-    "line": 12,
-    "column": 25
-  },
-  {
-    "id": "11",
-    "mutatorName": "ArithmeticOperator",
-    "replacement": "a / b",
-    "status": "NoCoverage",
-    "line": 13,
-    "column": 9
-  },
-  {
-    "id": "15",
-    "mutatorName": "BlockStatement",
-    "replacement": "{}",
-    "status": "NoCoverage",
-    "line": 18,
-    "column": 12
-  },
-  {
-    "id": "16",
-    "mutatorName": "BooleanLiteral",
-    "replacement": "false",
-    "status": "NoCoverage",
-    "line": 19,
-    "column": 10
-  },
-  {
-    "id": "17",
-    "mutatorName": "ConditionalExpression",
-    "replacement": "false",
-    "status": "NoCoverage",
-    "line": 19,
-    "column": 10
-  },
-  {
-    "id": "23",
-    "mutatorName": "BlockStatement",
-    "replacement": "{}",
-    "status": "NoCoverage",
-    "line": 30,
-    "column": 26
-  },
-  {
-    "id": "24",
-    "mutatorName": "StringLiteral",
-    "replacement": "\"\"",
-    "status": "NoCoverage",
-    "line": 31,
-    "column": 14
-  },
-  {
-    "id": "25",
-    "mutatorName": "BlockStatement",
-    "replacement": "{}",
-    "status": "NoCoverage",
-    "line": 35,
-    "column": 28
-  },
-  {
-    "id": "1",
-    "mutatorName": "ConditionalExpression",
-    "replacement": "true",
-    "status": "Survived",
-    "line": 3,
-    "column": 9
-  },
-  {
-    "id": "6",
-    "mutatorName": "ConditionalExpression",
-    "replacement": "true",
-    "status": "Survived",
-    "line": 8,
-    "column": 9
-  },
-  {
-    "id": "3",
-    "mutatorName": "EqualityOperator",
-    "replacement": "n >= 0",
-    "status": "Survived",
-    "line": 3,
-    "column": 9
-  },
-  {
-    "id": "14",
-    "mutatorName": "ConditionalExpression",
-    "replacement": "false",
-    "status": "Survived",
-    "line": 18,
-    "column": 6
-  },
-  {
-    "id": "20",
-    "mutatorName": "ConditionalExpression",
-    "replacement": "true",
-    "status": "Survived",
-    "line": 26,
-    "column": 9
-  }
+	{
+		"id": "10",
+		"mutatorName": "BlockStatement",
+		"replacement": "{}",
+		"status": "NoCoverage",
+		"line": 12,
+		"column": 25
+	},
+	{
+		"id": "11",
+		"mutatorName": "ArithmeticOperator",
+		"replacement": "a / b",
+		"status": "NoCoverage",
+		"line": 13,
+		"column": 9
+	},
+	{
+		"id": "15",
+		"mutatorName": "BlockStatement",
+		"replacement": "{}",
+		"status": "NoCoverage",
+		"line": 18,
+		"column": 12
+	},
+	{
+		"id": "16",
+		"mutatorName": "BooleanLiteral",
+		"replacement": "false",
+		"status": "NoCoverage",
+		"line": 19,
+		"column": 10
+	},
+	{
+		"id": "17",
+		"mutatorName": "ConditionalExpression",
+		"replacement": "false",
+		"status": "NoCoverage",
+		"line": 19,
+		"column": 10
+	},
+	{
+		"id": "23",
+		"mutatorName": "BlockStatement",
+		"replacement": "{}",
+		"status": "NoCoverage",
+		"line": 30,
+		"column": 26
+	},
+	{
+		"id": "24",
+		"mutatorName": "StringLiteral",
+		"replacement": "\"\"",
+		"status": "NoCoverage",
+		"line": 31,
+		"column": 14
+	},
+	{
+		"id": "25",
+		"mutatorName": "BlockStatement",
+		"replacement": "{}",
+		"status": "NoCoverage",
+		"line": 35,
+		"column": 28
+	},
+	{
+		"id": "1",
+		"mutatorName": "ConditionalExpression",
+		"replacement": "true",
+		"status": "Survived",
+		"line": 3,
+		"column": 9
+	},
+	{
+		"id": "6",
+		"mutatorName": "ConditionalExpression",
+		"replacement": "true",
+		"status": "Survived",
+		"line": 8,
+		"column": 9
+	},
+	{
+		"id": "3",
+		"mutatorName": "EqualityOperator",
+		"replacement": "n >= 0",
+		"status": "Survived",
+		"line": 3,
+		"column": 9
+	},
+	{
+		"id": "14",
+		"mutatorName": "ConditionalExpression",
+		"replacement": "false",
+		"status": "Survived",
+		"line": 18,
+		"column": 6
+	},
+	{
+		"id": "20",
+		"mutatorName": "ConditionalExpression",
+		"replacement": "true",
+		"status": "Survived",
+		"line": 26,
+		"column": 9
+	}
 ]
